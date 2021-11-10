@@ -6,4 +6,4 @@
 * Building a multivariate deep learning based predictive time series model to forecast the global average temperatures
 
 <img src='plots/cc1.png'>
-[code and html file](https://github.com/msdat/climate-change-forecasting)
+<a href="https://github.com/msdat/climate-change-forecasting">code files</a>
